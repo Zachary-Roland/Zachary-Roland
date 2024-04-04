@@ -17,12 +17,12 @@ I am proficient in JavaScript, TypeScript, HTML, CSS, and their use with the Rea
 
 ### In My Tech Stack
 
-* HTML / CSS / JS
-* Git
+* Typescript
 * React JS
+* Grails
+* REST/SOAP APIs
 * React Router
 * State Management
-* RESTful APIs
 * SQL (MySQL & PostgreSQL)
 * MongoDB
 * Node.js
